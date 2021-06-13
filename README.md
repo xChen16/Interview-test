@@ -39,3 +39,6 @@ NextID获取下一个ID，
 在Cron上添加了Add，Stop和run方法
 定义一个byTime切片，把Entry按时间排序
 用select匹配执行任务时间点
+
+# log
+自定义日志
